@@ -1,5 +1,8 @@
 # AWS S3 Storage for static website
 
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/4a6b9000-9134-4129-bcbb-6dca643c30f4)
+
+
 You can use Amazon S3 to host a static website. On a static website, individual webpages include static content. They might also contain client-side scripts.
 By contrast, a dynamic website relies on server-side processing, including server-side scripts, such as PHP, JSP, or ASP.NET. Amazon S3 does not support server-side scripting, but AWS has other resources for hosting dynamic websites.
 
